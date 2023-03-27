@@ -41,5 +41,6 @@ while initialHeight >= .1:
 
 # Rounding the answer instead of every bounce
 finalDistance = round(distance + height, 2)
+
 # print("The", ball, "bounced", bounce, "times, and travelled", finalDistance, "meters.")
 print(f"The {ball} bounced {bounce} times and travelled a distance of {finalDistance} meters. ")

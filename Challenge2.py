@@ -42,6 +42,4 @@ while initialHeight >= .1:
 # Rounding the answer instead of every bounce
 finalDistance = round(distance + height, 2)
 # print("The", ball, "bounced", bounce, "times, and travelled", finalDistance, "meters.")
-print(f"The {ball} bounced {bounce} times, reached a maximum height of {height} meters, "
-      f"and travelled a total distance of {finalDistance} meters. "
-      f"The coefficient of restitution for the chosen ball was {coReChoice}.")
+print(f"The {ball} bounced {bounce} times and travelled a distance of {finalDistance} meters. "

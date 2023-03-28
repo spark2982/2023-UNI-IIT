@@ -9,8 +9,7 @@ coRe = {
         "Tennis ball": tBall,
         "Basketball": bBall,
         "Super ball": supBall,
-        "Softball": sofBall
-        }
+        "Softball": sofBall}
 
 # Resetting variables
 bounce = 0

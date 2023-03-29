@@ -1,3 +1,5 @@
+# Challenge 2 - Bouncing Ball
+
 # coRe = Coefficient of Restitution
 # dictionary for tennis ball, basketball, super ball and softball respectively
 tBall = 0.7
@@ -5,8 +7,7 @@ bBall = 0.75
 supBall = 0.9
 sofBall = 0.3
 
-coRe = {
-        "Tennis ball": tBall,
+coRe = {"Tennis ball": tBall,
         "Basketball": bBall,
         "Super ball": supBall,
         "Softball": sofBall}

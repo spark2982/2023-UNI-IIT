@@ -39,8 +39,7 @@ while initialHeight >= .1:
     distance += afterBounce * 2
     initialHeight = afterBounce
 
-# Rounding the answer instead of every bounce
+# Rounding the answer instead of rounding every bounce
 finalDistance = round(distance + height, 2)
 
-# print("The", ball, "bounced", bounce, "times, and travelled", finalDistance, "meters.")
-print(f"The {ball} bounced {bounce} times and travelled a distance of {finalDistance} meters. ")
+print(f"The {ball} bounced {bounce} times and travelled a distance of {finalDistance} meters.")

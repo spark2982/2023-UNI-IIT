@@ -1,4 +1,8 @@
 # Challenge 1 - Bond Yield
+# # Author: Sean Park
+# # Date created: 27 Mar 2023
+# # This program takes the users input of face value, market price, years to maturity and the interest,
+# it then calculates the approximate years to mature based on the given formula.
 
 # User input
 faceValue = int(input("What is the face value of the bond? "))

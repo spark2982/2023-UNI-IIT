@@ -1,4 +1,9 @@
 # Challenge 2 - Bouncing Ball
+# # Author: Sean Park
+# # Date created: 27 Mar 2023
+# # This program takes the users input of choosing a ball and taking the coefficient of restitution of said ball,
+# calculates how many times that ball will bounce from a given height and
+# outputs the distance travelled as well as how many times it bounced
 
 # coRe = Coefficient of Restitution
 # dictionary for tennis ball, basketball, super ball and softball respectively
